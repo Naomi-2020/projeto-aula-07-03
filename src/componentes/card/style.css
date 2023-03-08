@@ -1,0 +1,38 @@
+.card-container{
+  display: flex; 
+  width: 90%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 80px;
+  padding: 0px;
+}
+
+.card{
+  width: 30%;
+  padding: 15px;
+  
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.card h1{
+font-size: 20px;
+text-align: center; 
+
+}
+
+.card h2{
+  font-size: 18px;
+  text-align: center;
+
+}
+ .card h3{
+  font-size: 17px;
+  text-align: center;
+ }
+
+.card p{
+  font-size: 15 px;
+  text-align: justify;
+}
